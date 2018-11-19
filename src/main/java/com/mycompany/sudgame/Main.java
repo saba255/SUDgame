@@ -2,6 +2,6 @@
 package com.mycompany.sudgame;
 
 
-public class Main {
+public class Main {  
     
 }
